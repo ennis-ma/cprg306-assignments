@@ -30,7 +30,7 @@ function NewItem() {
             value={name}
             onChange={(e) => setName(e.target.value)}
             required
-            className="border px-3 py-2 rounded w-full"
+            className="border px-3 text-black py-2 rounded w-full"
           />
         </div>
         <div className="mb-4">
