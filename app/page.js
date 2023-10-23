@@ -37,6 +37,13 @@ const Home = () => {
         >
           week5
         </Link>
+        <Link
+          className="text-blue-500 hover:text-blue-400 hover:underline"
+          target="_blank"
+          href="/week6"
+        >
+          week6
+        </Link>
       </p>
     </div>
   );
